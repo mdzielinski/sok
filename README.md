@@ -21,7 +21,7 @@ As md url:
 
 
 And private repo:
-[private repo](https://github.com/mdzielinski/private)
-[private repo](https://github.com/mdzielinski/private/)
-[private repo](https://github.com/mdzielinski/private/README)
-[private repo](https://github.com/mdzielinski/private/README.md)
+- [private repo](https://github.com/mdzielinski/private)
+- [private repo/](https://github.com/mdzielinski/private/)
+- [private repo/file](https://github.com/mdzielinski/private/README)
+- [private repo/file.ext](https://github.com/mdzielinski/private/README.md)
