@@ -3,6 +3,13 @@
 
 [KOS](https://mdzielinski.github.io/sok/kos)
 
+<pre class="mermaid">
+flowchart TD
+     graph TD;
+    A[Page A] -->|Link to B| B[Page B];
+    click A href "[kos](https://mdzielinski.github.io/sok/kos)"
+    click B href "[kos](https://mdzielinski.github.io/sok/kos)"
+</pre>
 
 ```mermaid
 graph TD;
