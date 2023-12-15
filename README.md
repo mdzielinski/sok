@@ -9,6 +9,11 @@
 
 
 [KOS](https://mdzielinski.github.io/sok/kos)
+<pre class="mermaid">
+flowchart TD
+     A-->B
+</pre>
+
 
 <pre class="mermaid">
 flowchart TD
