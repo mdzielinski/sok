@@ -1,26 +1,7 @@
-<script type="module">
-	import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-	mermaid.initialize({
-		startOnLoad: true,
-		theme: 'dark'
-	});
-</script>
 # sok
 
 
 [KOS](https://mdzielinski.github.io/sok/kos)
-<pre class="mermaid">
-flowchart TD
-     A-->B
-</pre>
-
-
-<pre class="mermaid">
-graph TD
-    A[Page A] -->|Link to B| B[Page B];
-    click A href "[kos](https://mdzielinski.github.io/sok/kos)"
-    click B href "[kos](https://mdzielinski.github.io/sok/kos)"
-</pre>
 
 ```mermaid
 graph TD;
