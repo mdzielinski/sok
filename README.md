@@ -4,6 +4,14 @@
 [KOS](https://mdzielinski.github.io/sok/kos)
 
 
+```mermaid
+graph TD;
+    A[Page A] -->|Link to B| B[Page B];
+    click A href "[kos](https://mdzielinski.github.io/sok/kos)"
+    click B href "[kos](https://mdzielinski.github.io/sok/kos)"
+```
+
+
 ## podrozdział sok
 
 
